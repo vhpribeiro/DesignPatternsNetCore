@@ -8,6 +8,8 @@ Apresentar exemplos de implementação de alguns Design Patterns no .NET Core
 - Strategy
     - **Contexto**: Você é dono de uma oficina que tem na fila de espera para fazer manutenção uma moto, um carro e um caminhão. Para cada um desses automóveis é necessário fazer uma manutenção específica.
 
+- Factory Method
+    - **Contexto**: Estamos criando uma montadora de carros, e cada montadora sabe montar um único tipo de carro, que pode ser _elétrico_, _a vapor_ ou _a combustão_. Sendo que cada tipo de carro tem características próprias e sua montadora deve saber lidar com isso.
 
 ##### Para serem implementados
-- Factory Method
+- Facede
