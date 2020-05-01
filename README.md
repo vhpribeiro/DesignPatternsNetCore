@@ -14,5 +14,8 @@ Apresentar exemplos de implementação de alguns Design Patterns no .NET Core
 - Facade
     - **Contexto**: Estou querendo comprar o livro "Harry Potter: A Ordem da Fênix" e estou utilizando um daqueles buscadores, que traz em quais lojas este livro se encontra.
 
+- Mediator
+    - **Contexto**: Estamos em um aeroporto, e devido à alta demanda de voos, só podemos ter um avião de cada tipo no aeroporto. Por isso a torre de controle precisa notificar sempre que um avião estiver aterrizando.
+
 ##### Para serem implementados
 - Adapter
