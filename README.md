@@ -17,5 +17,8 @@ Apresentar exemplos de implementação de alguns Design Patterns no .NET Core
 - Mediator
     - **Contexto**: Estamos em um aeroporto, e devido à alta demanda de voos, só podemos ter um avião de cada tipo no aeroporto. Por isso a torre de controle precisa notificar sempre que um avião estiver aterrizando.
 
+- Template Method
+    - **Contexto**: Tenho que extrair dados de vários tipos de documentos para que eu, como gestor da empresa, possa tomar a melhor decisão para ela. Entretanto, alguns passos dessa extração são idênticos, independente do formato do documento.
+
 ##### Para serem implementados
 - Adapter
