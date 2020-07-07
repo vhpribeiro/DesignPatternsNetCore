@@ -22,3 +22,4 @@ Apresentar exemplos de implementação de alguns Design Patterns no .NET Core
 
 ##### Para serem implementados
 - Adapter
+- Chain of Responsibility
