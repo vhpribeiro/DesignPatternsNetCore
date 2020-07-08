@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 
-namespace ChainOfResponsibility
+namespace ChainOfResponsibility.Handlers
 {
     public class AtendenteDigitalHandler : BaseHandler
     {

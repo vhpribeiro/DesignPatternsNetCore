@@ -20,6 +20,8 @@ Apresentar exemplos de implementação de alguns Design Patterns no .NET Core
 - Template Method
     - **Contexto**: Tenho que extrair dados de vários tipos de documentos para que eu, como gestor da empresa, possa tomar a melhor decisão para ela. Entretanto, alguns passos dessa extração são idênticos, independente do formato do documento.
 
+- Chain of Responsibility
+    - **Contexto**: Estou com um problema na internet, onde será necessário configurar o meu modem. Para isso, tenho que ligar para a operadora de internet e tentar falar com alguém especializado.
+
 ##### Para serem implementados
 - Adapter
-- Chain of Responsibility

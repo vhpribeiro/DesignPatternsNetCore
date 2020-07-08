@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ChainOfResponsibility
+namespace ChainOfResponsibility.Handlers
 {
     public abstract class BaseHandler: IHandler
     {
