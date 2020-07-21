@@ -23,5 +23,8 @@ Apresentar exemplos de implementação de alguns Design Patterns no .NET Core
 - Chain of Responsibility
     - **Contexto**: Estou com um problema na internet, onde será necessário configurar o meu modem. Para isso, tenho que ligar para a operadora de internet e tentar falar com alguém especializado.
 
-##### Para serem implementados
 - Adapter
+    - **Contexto**: Tenho uma empresa, e uma funcionalidade do sistema de gerenciamento era me dar todos os meus funcionários no formato XML. O tempo passou, surgiu novas necessidades que esse sistema deve atender e uma delas é gerar este relatório em JSON.
+
+##### Para serem implementados
+- Decorator
