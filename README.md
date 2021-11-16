@@ -1,7 +1,7 @@
 ## DesignPatternsNetCore
 
 ### Objetivo
-Apresentar exemplos de implementação de alguns Design Patterns no .NET Core
+Apresentar exemplos de implementação de alguns Design Patterns no .NET 5
 
 ##### Já implementados
 
@@ -27,6 +27,24 @@ Apresentar exemplos de implementação de alguns Design Patterns no .NET Core
     - **Contexto**: Tenho uma empresa, e uma funcionalidade do sistema de gerenciamento era me dar todos os meus funcionários no formato XML. O tempo passou, surgiu novas necessidades que esse sistema deve atender e uma delas é gerar este relatório em JSON.
 
 - Decorator
-    - **Contexto**: Sou um criador de Matrioscas! Sim ,Matrioscas, aquelas bonecas russas que vai uma dentro da outra! E cada vez que abro uma de minhas matrioscas ela precisa dizer qual seu tamanho. Assim quando eu quiser abrir todas, devo ouvir a sequência delas por tamanho!
+    - **Contexto**: Sou um criador de Matrioscas! Sim, matrioscas, aquelas bonecas russas que vai uma dentro da outra! E cada vez que abro uma de minhas matrioscas ela precisa dizer qual seu tamanho. Assim quando eu quiser abrir todas, devo ouvir a sequência delas por tamanho!
 
 ##### Para serem implementados
+
+- Abstract Factory
+
+- Builder
+
+- Prototype
+
+- Singleton
+
+- Command
+
+- Memento
+
+- Iterator
+
+- Observer
+
+- Visitor
