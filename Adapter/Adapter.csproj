@@ -1,8 +1,7 @@
-<Project Sdk="Microsoft.NET.Sdk.WindowsDesktop">
+<Project Sdk="Microsoft.NET.Sdk">
 
     <PropertyGroup>
         <TargetFramework>$(DotNetVersion)</TargetFramework>
-        <UseWPF>true</UseWPF>
         <OutputType>Exe</OutputType>
     </PropertyGroup>
 

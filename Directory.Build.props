@@ -1,14 +1,7 @@
 <Project>
   <PropertyGroup Label="Common properties">
     <LangVersion>latest</LangVersion>
-    <DotNetVersion>net5.0-windows</DotNetVersion>
-  </PropertyGroup>
-
-  <PropertyGroup Label="Packages dependency versions">
-    <EntityFrameworkCore>5.0.6</EntityFrameworkCore>
-    <FluentAssertions>5.10.3</FluentAssertions>
-    <XUnit>2.4.0</XUnit>
-    <Bogus>33.0.2</Bogus>
+    <DotNetVersion>net5.0</DotNetVersion>
   </PropertyGroup>
 
 </Project>
